@@ -15,7 +15,7 @@
 一键安装技能
 
 ```bash
-npx skills add yourname/XDR-SOP-SKILL
+npx skills add seccmd/xdr-sop-skill
 ```
 
 ## 二、核心解决的问题（痛点明确，贴合平台审核）
