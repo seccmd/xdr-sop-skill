@@ -1,4 +1,3 @@
-
 ---
 # 技能元数据区（机器可读配置）
 name: security-incident-response-sop
