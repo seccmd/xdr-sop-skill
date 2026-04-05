@@ -30,9 +30,9 @@ XDR-SOP-SKILL/          # 仓库根目录（和仓库名一致）
 │   ├── ndr.py          # 网络层防护脚本（独立拆分）
 │   └── edr.py          # 主机层防护脚本（独立拆分）
 ├── references/         # 供应链攻击案例参考
-│   ├── apifox.md
-│   ├── litellm.md
-│   └── axios.md
+│   ├── apifox.md       # Apifox供应链投毒事件安全分析报告
+│   ├── litellm.md      # LiteLLM供应链投毒事件安全分析报告
+│   └── axios.md        # Axios npm供应链投毒事件安全分析报告
 ```
 
 ## 五、适配场景
